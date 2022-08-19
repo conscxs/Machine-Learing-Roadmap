@@ -1,7 +1,8 @@
 # Machine-Learing-Roadmap
-Machine-Learing-Roadmap-2K22 (credits to Nithish Singh from CampusX) 
+Machine-Learing-Roadmap-2K22 
 
 A curated list of Machine learning videos, links, projects and datasets to help you conquer the ML landscape in 6 months
+(credits to Nithish Singh from CampusX) 
 
 ## Levels of Learning
 1. ### Testing the waters
